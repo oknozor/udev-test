@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 udev = "0.6.3"
+dirs = "4.0.0"
